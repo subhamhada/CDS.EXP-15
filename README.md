@@ -159,7 +159,7 @@ int main()
 ![Screenshot 2024-09-13 114125](https://github.com/user-attachments/assets/af0f80dc-27dd-4a26-817b-f25dce1f45f7)
 
 ### 4.
-
+![Screenshot 2024-09-13 114633](https://github.com/user-attachments/assets/be091c47-aed7-4ec1-bc38-4b1a17b8ceb6)
 
 ## Conclusion :
 We effectively studied and implemented the idea of recursion in C++ in this experiment. Examples of recursion, which is the process by which a function calls itself to solve smaller sub-problems, included finding the factorial, creating Fibonacci sequences, and searching algorithms.
