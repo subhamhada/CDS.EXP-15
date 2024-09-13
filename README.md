@@ -30,7 +30,7 @@ To study and implement recursion.
 ## Memory allotment :
 When any function is called from main(), the memory is allocated to it on the stack. A recursive function calls itself, the memory for a called function is allocated on top of memory allocated to the calling function and a different copy of local variables is created for each function call.
 
-### 1.
+### 1. *Factorial*
 ```
 //subham
 //entc B2
@@ -60,7 +60,7 @@ int main()
 }
 ```
 
-### 2.
+### 2. *Addition*
 ```
 //subham
 //entc B2
@@ -90,7 +90,7 @@ int main()
 }
 ```
 
-### 3.
+### 3. *Reverse Of A String*
 ```
 //subham
 //entc B2
@@ -120,7 +120,7 @@ int main()
 }
 ```
 
-### 4.
+### 4. *Reverse Of A Integer*
 ```
 //subham
 //entc B2
@@ -149,16 +149,16 @@ int main()
 ```
 
 ## Outputs :
-### 1.
+### 1. *Factorial*
 ![Screenshot 2024-09-13 113925](https://github.com/user-attachments/assets/fd53bbf7-e613-4204-aacc-c006085db645)
 
-### 2.
+### 2. *Addition*
 ![Screenshot 2024-09-13 113950](https://github.com/user-attachments/assets/28ae812f-60c2-4a92-a510-9b9ba7539408)
 
-### 3.
+### 3. *Reverse Of A String*
 ![Screenshot 2024-09-13 114125](https://github.com/user-attachments/assets/af0f80dc-27dd-4a26-817b-f25dce1f45f7)
 
-### 4.
+### 4. *Reverse Of A Integer*
 ![Screenshot 2024-09-13 114633](https://github.com/user-attachments/assets/be091c47-aed7-4ec1-bc38-4b1a17b8ceb6)
 
 ## Conclusion :
